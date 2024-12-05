@@ -1,0 +1,96 @@
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.lib
+*.out
+*.log
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+
+# Visual Studio Generated Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Visual Studio Code Coverage Results
+*.coverage
+*.coveragexml
+
+# Build results
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Debug logs
+*.log
+
+# Directories for Visual Studio
+.vs/
+ipch/
+_ReSharper*/  
+.idea/
+*.VC.db
+*.VC.opendb
+
+# Ignore crash reports and binaries
+*.dump
+*.bak
+
+# Node.js cache
+node_modules/
+npm-debug.log
+
+# Exclude IDE workspace and settings files
+*.code-workspace
+*.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+~$*
+
+# Ignore JetBrains Rider project files
+.idea/
+*.ipr
+*.iws
+
+# Ignore Visual Studio database files
+*.sdf
+*.aps
+*.ncb
+*.opendb
+
+# Ignore Windows crash logs
+*.mdmp
